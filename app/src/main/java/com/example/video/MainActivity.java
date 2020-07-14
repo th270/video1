@@ -70,11 +70,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private void initVideoPath() {
 
         //testLocalPlay
-        //testLocalPlay();
+        testLocalPlay();
 
 
         // playURL
-        testPlayURL();
+        //testPlayURL();
 
     }
 
